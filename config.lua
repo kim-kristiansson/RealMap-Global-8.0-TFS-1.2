@@ -70,10 +70,10 @@ mapName = "global"
 mapAuthor = "Bruno"
 
 -- MySQL
-mysqlHost = "localhost"
-mysqlUser = "root"
-mysqlPass = ""
-mysqlDatabase = "global88"
+mysqlHost = "127.0.0.1"
+mysqlUser = "global"
+mysqlPass = "yvn9xhj1ZTW!tpa7jhm"
+mysqlDatabase = "global"
 mysqlPort = 3306
 mysqlSock = ""
 passwordType = "sha1"
